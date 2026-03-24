@@ -130,7 +130,8 @@ z-index: 2;
   .list{display: none;}
   .menu{display: block;}
   .hero-sec{margin-top: 60px;}
-  h1{font-size: 21px;}
+  h1{font-size: 36px !important;
+  font-weight: 400 !important;}
 }
 @media screen and (min-width  : 991px ) and  ( max-width : 1440px ) {
  h1{
